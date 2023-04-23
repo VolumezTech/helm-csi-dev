@@ -1,6 +1,6 @@
 # Volumez-CSI 
 הקרדםפ
-version: 1.13.0
+Version: 1.13.0
 
 ## Usage
 [Helm](https://helm.sh) must be installed to use the charts.  Please refer to
